@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "coordination_system_rithish", "agent.ai\coordination_system_rithish.pyproj", "{540E55EC-8DDB-44F5-943B-04968049B9EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{540E55EC-8DDB-44F5-943B-04968049B9EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{540E55EC-8DDB-44F5-943B-04968049B9EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C9069AC-F0A7-4626-A6A1-98901D3F6882}
+	EndGlobalSection
+EndGlobal
